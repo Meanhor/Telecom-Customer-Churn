@@ -87,7 +87,7 @@ bash
 📦 telecom-customer-churn
 ├── 📊 Churn_Prediction.ipynb        # Main notebook
 ├── 📁 data                          # Dataset folder
-├── 📈 visualizations                # Folder containing graphs and plots
+├── 📈 tele-churn-visualize.ipynb               # Folder containing graphs and plots
 ├── 📄 requirements.txt              # Required Python packages
 └── README.md                        # This file
 ---
